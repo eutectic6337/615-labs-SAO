@@ -65,3 +65,13 @@ Science of debatable sanity
   - wire from each TIMnCHm to one R and thus through LED to GND (doesn't matter which - will reallocate based on board routing)
 
 - from schematic, Tools / Update PCB
+
+- as-built GPIO-LED assignments:
+  - LED1 - Timer 2 Ch 4 / aka PD7
+  - LED2 - Timer 2 Ch 1 / aka PD4
+  - LED3 - Timer 1 Ch 2 / aka PA1
+  - LED4 - Timer 2 Ch 2 / aka PD3
+  - LED5 - Timer 1 Ch 4 / aka PC4
+  - LED6 - Timer 1 Ch 1 / aka PD2
+  - LED7 - Timer 1 Ch 3 / aka PC3
+  - LED8 - Timer 2 Ch 3 / aka PC0
